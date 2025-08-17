@@ -1,8 +1,7 @@
 {
- "theme_color": "#FFFFFF",
  "name": "Virtual Tour Laboratorium UPN \"Veteran\" Yogyakarta",
  "start_url": "index.htm?installed=true",
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "sizes": "512x512",
@@ -20,5 +19,6 @@
    "src": "icons/icon64.png"
   }
  ],
+ "background_color": "#FFFFFF",
  "display": "fullscreen"
 }
