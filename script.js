@@ -2,7 +2,7 @@
     var script = {
  "defaultVRPointer": "laser",
  "start": "this.init()",
- "downloadEnabled": true,
+ "downloadEnabled": false,
  "id": "rootPlayer",
  "minWidth": 20,
  "horizontalAlign": "left",
