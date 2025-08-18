@@ -565,7 +565,7 @@
  "transparencyActive": false,
  "mode": "push",
  "height": 72,
- "click": "eval('startTour()');",
+ "click": "eval('window.location.href=\"https://virtual-tour-laboratorium.vercel.app/\"');",
  "class": "IconButton",
  "horizontalAlign": "center",
  "shadow": false,
