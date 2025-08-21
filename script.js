@@ -552,7 +552,7 @@
  "bottom": "9.41%",
  "height": 72,
  "class": "IconButton",
- "click": "eval('startTour()');",
+ "click": "window.location.href='https://virtual-tour-laboratorium.vercel.app/';",
  "horizontalAlign": "center",
  "mode": "push",
  "pressedIconURL": "skin/IconButton_1E1C7714_0BA4_F559_419E_A1DE0E410092_pressed.png",
